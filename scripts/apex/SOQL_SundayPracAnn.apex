@@ -1,0 +1,9 @@
+SOQL_SundayPractice.fetchContacts();
+SOQL_SundayPractice.fetchAccountsWithoutPhone();
+SOQL_SundayPractice.fetchaccountContacts();
+SOQL_SundayPractice.fetchOpportunity();
+SOQL_SundayPractice.fetchOpportunity_withstaged();
+SOQL_SundayPractice.fetchContact_and_Account_lastName_Desc();
+SOQL_SundayPractice.fetchAccount_with_opport_withclosed();
+SOQL_SundayPractice.getTop10Opportunities();
+SOQL_SundayPractice.getLower20Opportunities();
